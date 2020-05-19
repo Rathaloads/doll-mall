@@ -1,3 +1,5 @@
+-- 商品
+
 -- 分类
 CREATE TABLE T_Product_Category(
 	Id INT PRIMARY KEY IDENTITY(1,1),
